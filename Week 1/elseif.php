@@ -22,7 +22,7 @@
             echo"</br>hij mag deze drank NIET kopen";
         }
         
-        
+        echo"test";
         
         if ( $geld <= $drank){
             echo"</br>Hij kan deze drank niet betalen.";
@@ -33,3 +33,4 @@
         ?>
     </body>
 </html>
+
