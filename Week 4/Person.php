@@ -1,5 +1,5 @@
 <?php
-class person{
+class Person{
     public $firstname;
     public $age;
     public $isAlive = true;
@@ -12,6 +12,5 @@ $Jan-> age ="21";
 $Jan-> firstname="Jan";
 $Jan-> lastname="Alibaba";
 
-print_r($Jan)
-
+print_r($Jan);
 ?>
